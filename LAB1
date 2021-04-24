@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Варіант №2</h1>
+    <h2>Баліцька Ребекка Анастасія</h2>
+
+    <ol>
+        <li>Описание</li>
+        <li>Сюжет</li>
+        <li>Серии</li>
+    </ol>
+
+    <article>
+        <header>
+            <h3>Описание</h3>
+        </header>
+        <section>
+            <p>
+                «Бума́жный дом» — испанский телесериал в жанре криминальной драмы. Премьерный показ состоялся 2 мая 2017 года на телеканале Antena 3.
+            </p>
+            <p>
+                Успех сериала в Испании заинтересовал американский стриминговый сервис Netflix, который купил права на международный показ.
+            </p>
+        </section>
+        <footer>
+            <img src="https://upload.wikimedia.org/wikipedia/ru/8/8d/%D0%91%D1%83%D0%BC%D0%B0%D0%B6%D0%BD%D1%8B%D0%B9_%D0%B4%D0%BE%D0%BC_%28%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D0%B8%D0%B0%D0%BB%29.png">
+        </footer>
+    </article>
+
+    <hr>
+
+    <article>
+        <header>
+            <h3>Сюжет</h3>
+        </header>
+        <section>
+            <p>
+                Действие первого и второго сезонов разворачивается в Мадриде вокруг группы авантюристов, использующих названия городов в качестве кодовых имён, во главе с таинственным Профессором. Их план заключается в том, чтобы вынести 2,4 миллиарда евро из Испанского королевского монетного двора. Взяв в заложники 67 человек, команде предстоит в течение 11 дней напечатать деньги, противостоя при этом элитным силам полиции.
+            </p>
+            <p>
+                После этого участники команды вынуждены залечь на дно на два года, а затем организовать второе ограбление, на этот раз — Банка Испании.
+            </p>
+        </section>
+        <footer>
+            <img src="https://tk.media/storage/uploads/articles/0/116-article20190802190525.jpeg">
+        </footer>
+    </article>
+
+    <hr>
+
+    <article>
+        <header>
+            <h3>Серии</h3>
+        </header>
+        <section>
+            <p>
+                Оригинальная версия лимитированной серии состоит из 15 эпизодов. Испанская сеть Antena 3 передала девять эпизодов на публикацию и сделала перерыв, прежде чем вышла в эфир оставшаяся часть. Эпизоды в среднем имеют продолжительность 70 минут. Чтобы удовлетворить западную аудиторию и ее привычку, Netflix сократил продолжительность эпизодов в среднем до 45 минут. 
+            </p>
+            <p>
+                Поэтому он расширил первую часть сезона с 9 до 13 эпизодов, а вторую часть с 6 эпизодов до 9.
+            </p>
+        </section>
+        <footer>
+            <img src="https://s1.tchkcdn.com/g-vOOU8oX7M8Q7rLP7WaNBhw/1/381331/660x480/f/0/883_a2fc6d26bea232521bd5be35cc821c9c.jpg">
+        </footer>
+    </article>
+
+    <hr>
+
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/KFqZEVYMH7s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <br><br>
+    <a href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B0%D0%BF%D0%B5%D1%80%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B1%D1%83%D0%B4%D0%B8%D0%BD%D0%BE%D0%BA_(%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%B5%D1%80%D1%96%D0%B0%D0%BB)">Інформація на Вікіпедії</a>
+
+</body>
+</html>
